@@ -1,0 +1,17 @@
+#!/bin/bash
+#spacer
+#spacer
+#spacer
+#spacer
+#spacer
+#spacer
+#spacer
+#spacer
+#spacer
+#spacer
+#spacer
+#spacer
+
+mydir="${0%/*}"
+
+"$mydir"/bin/mono "$mydir"/RuthlessConquest.exe
